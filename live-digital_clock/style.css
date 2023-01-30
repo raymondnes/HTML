@@ -1,0 +1,7 @@
+body {
+  padding: 40px;
+  background-color: skyblue;
+  font-size: 80px;
+  border-style: ridge;
+  border-width: 10px 20px;
+}
